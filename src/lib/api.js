@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = 'https://wexa-backend-ws2d.onrender.com/api';
 
 // Safe checking for localStorage since Next.js runs on server during SSR
 const getAuthToken = () => {
